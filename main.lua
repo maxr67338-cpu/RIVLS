@@ -1,5 +1,5 @@
 -- KEY SYSTEM (Linkvertise → Key → Unlock)
-local KEY = "SAMMY DER HUND"
+local KEY = "SAMMY-DER-HUND"
 local LINKVERTISE = "https://linkvertise.com/1455975/HPLegBGBXSoJ?o=sharing"
 
 -- Copy link to clipboard
